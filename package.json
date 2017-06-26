@@ -1,6 +1,6 @@
 {
   "name": "@kingstinct/react-decoration",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "A collection of @decorators for React Components",
   "main": "lib/index.js",
   "jsnext:main": "es/index.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mbasso/react-decoration.git"
+    "url": "git+https://github.com/robertherber/react-decoration.git"
   },
   "keywords": [
     "react",
@@ -37,12 +37,12 @@
     "es7",
     "high-order-component"
   ],
-  "author": "Matteo Basso (https://github.com/mbasso)",
+  "author": "Robert Herber (https://github.com/robertherber)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mbasso/react-decoration/issues"
+    "url": "https://github.com/robertherber/react-decoration/issues"
   },
-  "homepage": "https://mbasso.github.io/react-decoration",
+  "homepage": "https://robertherber.github.io/react-decoration",
   "devDependencies": {
     "babel-cli": "6.10.1",
     "babel-core": "6.9.1",
