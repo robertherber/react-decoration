@@ -1,3 +1,5 @@
+This is a simple fork of react-decoration without the perf decorator and without the  react-addons-perf dependency to be fully compatible with React Native. An even better solution would be to use a performance library that works with React Native.
+
 # react-decoration
 
 [![Build Status](https://travis-ci.org/mbasso/react-decoration.svg?branch=master)](https://travis-ci.org/mbasso/react-decoration)
